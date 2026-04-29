@@ -19,8 +19,8 @@ git push -u orign main
 ```
 **naming convention : use small case with hypones"-" and no spaces**
 
-*Commined command to push the chnages to git*
+*Combined command to push the chnages to git*
 
-```
+````
 git add . ; git commit -m "some message"; git push -u origin main
-```
+````
