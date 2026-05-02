@@ -15,7 +15,7 @@ git commit -m "why-you-commited-this"
 * Push the chnages to Github
 
 ```
-git push -u orign main
+git push -u origin main
 ```
 **naming convention : use small case with hypones"-" and no spaces**
 
