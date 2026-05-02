@@ -1,4 +1,4 @@
-# shellscript
+# GIT
 
 **steps**
 * Create a repo in Github
