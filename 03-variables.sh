@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PLAYER1=VIRAT
-PLAYER2=VINAY
+PLAYER1=KHOLI
+PLAYER2=ROHIT
 KEYWORD1=wellplayed 
 
 echo "$PLAYER1:: Hi $PLAYER2, $KEYWORD1 what an innings"
