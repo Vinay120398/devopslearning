@@ -2,11 +2,11 @@
 
 echo "username ::"
 
-read USERNAME 
+read -s USERNAME 
 
 echo "password ::"
 
-read PASSWORD
+read -s PASSWORD
 
 echo "username is : $USERNAME & password is : $PASSWORD"
 
