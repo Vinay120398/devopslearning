@@ -10,6 +10,6 @@ else
     echo "you are super user"
 fi
 
-dnf install mysqll -y
+dnf install mysql -y
 
 echo "status of last command is : $?"
