@@ -1,0 +1,14 @@
+#!/bin/bash
+
+USERID=$(id -u)
+
+if[ $USERID -ne 0]
+then 
+    echo "proceed with script"
+    exit 5 # manually exit the script when error comes
+else
+    echo "you are super user"
+
+dnf install mysqll -y
+
+echo "status of last command is : $?"
