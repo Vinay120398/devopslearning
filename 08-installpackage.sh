@@ -10,6 +10,10 @@ else
     echo "you are super user"
 fi
 
-dnf install mysql -y
+#dnf install mysql -y
+
+#echo "status of last command is : $?"
+
+dnf remove mysql -y
 
 echo "status of last command is : $?"
