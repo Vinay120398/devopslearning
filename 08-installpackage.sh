@@ -8,6 +8,7 @@ then
     exit 5 # manually exit the script when error comes
 else
     echo "you are super user"
+fi
 
 dnf install mysqll -y
 
